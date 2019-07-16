@@ -14,7 +14,7 @@ html, body{
   
   opacity: 0.8;
 
-  background:white;
+  background:black;
   -webkit-mask:url('/jscamera/silhouette.png');
 }
 
