@@ -18,9 +18,6 @@ html, body{
     
   }
   
-  #camera--view, #camera--sensor, #camera--output{
-      transform: scaleX(-1);
-  }
   
   #camera--trigger{
       width: 200px;
