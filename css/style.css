@@ -13,8 +13,8 @@ html, body{
   
   
   opacity: 0.8;
-  z-index: 100;
-  background:red;
+
+  background:white;
   -webkit-mask:url('/jscamera/silhouette.png');
 }
 
